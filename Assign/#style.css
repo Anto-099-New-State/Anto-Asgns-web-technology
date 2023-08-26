@@ -1,0 +1,33 @@
+
+   .div1-des{
+    width: 100px;
+    height: 100px;
+    background: palevioletred;
+    transition: width 2ms;
+    border: 100px;
+    border-radius: 100px;
+    border-color: black;
+   }
+   .div1-des:hover{
+    width: 300px;
+   }
+   .div-main{    
+    display:block;
+    border: 250px;
+    height: 300px;
+    width: 300px;
+    margin-top: 230px;
+    margin-left: 600px;
+    margin-right: 0%;
+    padding-top: 50px;
+    border-radius: 250px;
+
+    background-color: rgb(29, 113, 188);
+    justify-content:space-evenly;
+   }
+   body{
+    background-image:url('back-ground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   }
